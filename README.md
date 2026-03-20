@@ -16,8 +16,8 @@ Centralizing endpoint logs into Splunk via API to create real-time security dash
 ### [PKI & mTLS Traffic Analysis](https://github.com/Milie2k/PKI-mTLS-Traffic-Decryption)
 Designing a tiered PKI and using Wireshark to audit and decrypt TLS 1.3 traffic.
 
-### [Endpoint Management with ManageEngine](link-to-repo)
-Automating inventory and security policies for Linux and Windows nodes.
+### [Endpoint Management Central](https://github.com/Milie2k/Endpoint-Management-Central)
+Centralized endpoint management and agent deployment for Windows and Linux nodes using ManageEngine Endpoint Central.
 
 ---
 📫 **Connect with me:**
