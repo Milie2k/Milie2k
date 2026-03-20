@@ -10,6 +10,9 @@ I am a Cybersecurity specialist focused on **Threat Detection**, **Cloud Securit
 ---
 
 ## 🚀 Featured Projects
+### [Cloud-Based SOC Deployment (Elastic & AWS)](https://github.com/Milie2k/Cloud-SOC-Elastic-AWS)
+Deployment and Validation of a Cloud-Based SOC using Elastic SIEM and AWS Telemetry.
+
 ### [Splunk & Sophos SIEM Integration](https://github.com/Milie2k/Splunk-Sophos-SIEM-Integration)
 Centralizing endpoint logs into Splunk via API to create real-time security dashboards and alerts.
 
