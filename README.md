@@ -24,7 +24,7 @@ Centralized endpoint management and agent deployment for Windows and Linux nodes
 
 ---
 📫 **Connect with me:**
-[LinkedIn](https://www.linkedin.com/in/obed-anthony-2b91a9220) | [Email](mailto:Anthony.obed26@gmail.com)## Hi there 👋
+[LinkedIn](https://www.linkedin.com/in/obed-anthony-2b91a9220) | [Email](mailto:Anthony.obed26@gmail.com)
 
 <!--
 **Milie2k/Milie2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
