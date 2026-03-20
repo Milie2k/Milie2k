@@ -13,7 +13,7 @@ I am a Cybersecurity specialist focused on **Threat Detection**, **Cloud Securit
 ### [Splunk & Sophos SIEM Integration](https://github.com/Milie2k/Splunk-Sophos-SIEM-Integration)
 Centralizing endpoint logs into Splunk via API to create real-time security dashboards and alerts.
 
-### [PKI & Traffic Decryption Lab](link-to-repo)
+### [PKI & mTLS Traffic Analysis](https://github.com/Milie2k/PKI-mTLS-Traffic-Decryption)
 Designing a tiered PKI and using Wireshark to audit and decrypt TLS 1.3 traffic.
 
 ### [Endpoint Management with ManageEngine](link-to-repo)
